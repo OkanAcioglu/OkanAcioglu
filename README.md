@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 👯 I’m planning to working on **Node.js**
+- 👯 I’m planning to work on **Node.js**
 
 - 👨‍💻 All of my projects are available at [placeholder](placeholder)
 
