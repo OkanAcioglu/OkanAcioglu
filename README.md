@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okanacioglu&label=Profile%20views&color=0e75b6&style=flat" alt="okanacioglu" /> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React Native**
 
 - 👯 I’m planning to work on **Node.js**
 
